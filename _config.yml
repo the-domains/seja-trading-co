@@ -1,7 +1,7 @@
 name: SEJA Trading Co
 favicon: null
-layout_spectrum: 0.9636191711761057
-typography_spectrum: 0.0844776111189276
+layout_spectrum: 0.49729
+typography_spectrum: 0.68532
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#050707'
+    - '#1d2f51'
+    - '#848789'
+    - '#474b4c'
   brandStrength: 0.8375256219878793
-  lightness: 0.1071738472674042
-  saturation: 0.4134423655923456
-  rhythmicContrast: 0.7621694854460657
+  lightness: 0.5625
+  saturation: 0.4375
+  rhythmicContrast: 0.75
 purpose: []
