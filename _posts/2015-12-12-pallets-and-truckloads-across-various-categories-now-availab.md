@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-18T19:16:11.013Z'
-dateModified: '2015-12-18T16:55:46.916Z'
+datePublished: '2015-12-18T19:17:46.031Z'
+dateModified: '2015-12-18T19:17:38.268Z'
 title: Pallets and Truckloads across various categories now available.
 author: []
 sourcePath: _posts/2015-12-12-pallets-and-truckloads-across-various-categories-now-availab.md
@@ -26,8 +26,8 @@ We have a full inventory of incredibly priced truckloads to move.  They are liqu
 
 Availability changes daily, so please call or email for more information and up to the minute pricing.  Some of these loads already have waiting lists, so don't delay!  Please be aware many (50% or more) of the deals we have available never even make it to an email.  If you are looking for something in particular please contact us, we will hunt it down for you!
 
-Click "more information" to see pricing, sample pictures, sample manifests, and more detailed load information (if available).  Some loads can be double stacked to save on shipping, which will be noted in the "More Information" page.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8d3f995-8ef3-491b-b9b4-c03b14782253.jpg)
+Some loads can be double stacked to save on shipping, which will be noted in their description.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e87bca4c-4218-4d2a-a522-20f2d2732ffe.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/393a0a24-abca-4387-ae82-1b0b9b7c389a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a30f7d36a6eb47c70af79ca51c984309c418f833.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54c331c-a7ae-466d-9612-a60f36ae130c.jpg)
