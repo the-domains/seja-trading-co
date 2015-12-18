@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-18T16:55:15.336Z'
-dateModified: '2015-12-18T16:54:10.576Z'
+datePublished: '2015-12-18T19:16:11.013Z'
+dateModified: '2015-12-18T16:55:46.916Z'
 title: Pallets and Truckloads across various categories now available.
 author: []
+sourcePath: _posts/2015-12-12-pallets-and-truckloads-across-various-categories-now-availab.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-12-pallets-and-truckloads-across-various-categories-now-availab.md
-published: true
 url: pallets-and-truckloads-across-various-categories-now-availab/index.html
 _type: Article
 
