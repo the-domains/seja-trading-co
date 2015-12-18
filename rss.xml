@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SEJA Trading Company - Bringing you the best deals and savings!]]></title>
         <description><![CDATA[SEJA Trading Company - Bringing you the best deals and savings!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seja-trading-co/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 23:27:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Dec 2015 16:55:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seja-trading-co/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Pallets and Truckloads across various categories now available.]]></title>
             <description><![CDATA[<article><h1>Pallets and Truckloads across various categories now available.</h1><p>We have a full inventory of incredibly priced truckloads to move.  They are liquidations (returns, shelf pulls, discontinued, open box, etc) from major department stores and manufacturers.  You will be paying mere pennies on the dollar, for an entire stores worth of merchandise.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a30f7d36a6eb47c70af79ca51c984309c418f833.jpg"></article>]]></description>
-            <link>undefinedpallets-and-truckloads-across-various-categories-now-availab/index.html</link>
+            <link>https://thegrid.ai/seja-trading-co/pallets-and-truckloads-across-various-categories-now-availab/index.html</link>
             <guid isPermaLink="false">8685e6eb-aff3-4aeb-be06-06833b7d5957</guid>
-            <pubDate>Sat, 12 Dec 2015 23:27:12 GMT</pubDate>
+            <pubDate>Fri, 18 Dec 2015 16:55:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
