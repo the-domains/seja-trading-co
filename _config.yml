@@ -1,7 +1,7 @@
 name: SEJA Trading Co
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.68532
+layout_spectrum: 0.48465
+typography_spectrum: 0.85148
 title: 'SEJA Trading Company - Bringing you the best deals and savings!'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#000000'
-    - '#acacac'
-    - '#6d6d6d'
-    - '#fb3c0f'
-  brandStrength: 0.5625
-  lightness: 0.5
+    - '#fdfdfd'
+    - '#050707'
+    - '#90b2df'
+    - '#718fb7'
+    - '#39579d'
+  brandStrength: 0
+  lightness: 0.625
   saturation: 0.5
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
