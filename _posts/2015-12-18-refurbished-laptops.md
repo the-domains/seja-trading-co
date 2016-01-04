@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Intel Core Series laptops.  Fast and productive for business, games, internet or movies!'
-datePublished: '2016-01-03T17:27:40.308Z'
-dateModified: '2016-01-03T17:27:14.524Z'
+datePublished: '2016-01-04T04:10:47.151Z'
+dateModified: '2016-01-04T04:10:06.538Z'
 title: Refurbished Laptops
 author: []
 sourcePath: _posts/2015-12-18-refurbished-laptops.md
