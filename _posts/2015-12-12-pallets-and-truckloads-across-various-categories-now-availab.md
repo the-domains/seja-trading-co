@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-01-03T17:27:33.170Z'
-dateModified: '2016-01-03T17:27:18.331Z'
+description: Incredible savings - pay only pennies on the retail dollar.
+datePublished: '2016-01-04T04:10:54.374Z'
+dateModified: '2016-01-04T04:10:32.173Z'
 title: Pallets and Truckloads across various categories now available.
 author: []
 sourcePath: _posts/2015-12-12-pallets-and-truckloads-across-various-categories-now-availab.md
