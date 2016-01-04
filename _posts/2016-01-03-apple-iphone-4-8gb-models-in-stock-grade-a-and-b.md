@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'New shipment of iphones to choose from.  Refurbished and in great condition!'
-datePublished: '2016-01-03T17:27:48.172Z'
-dateModified: '2016-01-03T17:27:12.620Z'
+datePublished: '2016-01-04T04:10:39.784Z'
+dateModified: '2016-01-04T04:09:54.779Z'
 title: Apple iPhone 4 8GB Models in stock. Grade A and B
 author: []
+sourcePath: _posts/2016-01-03-apple-iphone-4-8gb-models-in-stock-grade-a-and-b.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-03-apple-iphone-4-8gb-models-in-stock-grade-a-and-b.md
-published: true
 url: apple-iphone-4-8gb-models-in-stock-grade-a-and-b/index.html
 _type: Article
 
